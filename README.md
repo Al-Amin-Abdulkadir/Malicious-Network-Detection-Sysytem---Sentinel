@@ -7,13 +7,13 @@ A machine learning system that classifies network traffic as **Normal** or **Mal
 ```
 sentinel/
 ├── data/
-│   ├── raw/          # Original dataset (not committed to git)
-│   └── processed/    # Cleaned and preprocessed data
-├── notebooks/        # Step-by-step Jupyter notebooks
-├── src/              # Reusable Python modules
-├── models/           # Saved trained models
-├── app/              # Streamlit web application
-└── reports/          # Charts and evaluation figures
+│   ├── raw/          
+│   └── processed/    
+├── notebooks/        
+├── src/              
+├── models/           
+├── app/              
+└── reports/          
 ```
 
 ## Setup
